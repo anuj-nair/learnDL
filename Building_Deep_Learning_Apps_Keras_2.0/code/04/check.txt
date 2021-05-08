@@ -1,0 +1,30 @@
+Using TensorFlow backend.
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:59: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:432: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3535: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/optimizers.py:697: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:879: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:602: calling Constant.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:866: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:2289: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:154: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:159: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2021-02-23 13:28:38.008433: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-02-23 13:28:38.030427: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2901210000 Hz
+2021-02-23 13:28:38.030744: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55648c33f700 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-02-23 13:28:38.030789: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/cherry/documents/projects/Learning/deepLearning/Ex_Files_Building_Deep_Learning_Apps/Exercise Files/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
