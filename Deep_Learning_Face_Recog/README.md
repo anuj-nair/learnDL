@@ -1,3 +1,6 @@
+## Course
+[Deep Learning Face Recognition](https://www.linkedin.com/learning/deep-learning-face-recognition/build-cutting-edge-facial-recognition-systems)
+
 ## Requirements 
 
 python3.6
